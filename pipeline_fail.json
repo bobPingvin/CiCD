@@ -1,0 +1,6 @@
+{
+  "pipeline": [
+    { "stage": "script", "script": "./scripts/fail_check.sh" },
+    { "stage": "build", "source": "./sample_app/src", "output": "./bin" }
+  ]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/ci-cd.dir/src/main.cpp.o" "CMakeFiles/ci-cd.dir/src/pipeline.cpp.o" "CMakeFiles/ci-cd.dir/src/process_utils.cpp.o" -o ci-cd  -ldl -lpthread 

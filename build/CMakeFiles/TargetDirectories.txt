@@ -1,0 +1,5 @@
+/home/student/ci-cd-project/build/CMakeFiles/ci-cd.dir
+/home/student/ci-cd-project/build/CMakeFiles/lint.dir
+/home/student/ci-cd-project/build/CMakeFiles/notify.dir
+/home/student/ci-cd-project/build/CMakeFiles/edit_cache.dir
+/home/student/ci-cd-project/build/CMakeFiles/rebuild_cache.dir

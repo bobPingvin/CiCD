@@ -1,0 +1,9 @@
+{
+  "pipeline": [
+    { "stage": "script", "script": "./scripts/pre_check.sh" },
+    { "stage": "lint", "target": "./sample_app/src", "max_line_len": 100 },
+    { "stage": "build", "source": "./sample_app/src", "output": "./bin" },
+    { "stage": "test", "tests": "./sample_app/tests" },
+    { "stage": "deploy", "source": "./bin", "target": "./deploy" }
+  ]
+}
