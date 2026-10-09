@@ -1,0 +1,7 @@
+build/
+bin/
+deploy/
+plugins/*.so
+ci-cd
+*.o
+*.so
